@@ -10,12 +10,6 @@ De igual forma que existen las awesome lists de recursos técnicos, este reposit
 
 ¡Para que no te pierdas charlas, eventos y encuentros varios!
 
-## Comunidades
-
-Todas las comunidades:
-
-{% include communities.html %}
-
 ## Cómo colaborar
 
 [Consulta las guías de colaboración](https://github.com/malagatechcomms/malagatechcomms.github.io/blob/master/CONTRIBUTING.md).
